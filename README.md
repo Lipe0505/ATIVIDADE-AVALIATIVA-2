@@ -153,7 +153,8 @@ A pilha **é** a estrutura de armazenamento. A string invertida nunca existe com
 
 | Nome Completo | Usuário GitHub |
 |---------------|----------------|
-|               |                |
+|  André Felipe            |    Lipe0505    |
+|  Erick Sartori           |                |
 
 > A atividade pode ser realizada individualmente ou em grupo de até 5 integrantes.
 
